@@ -2615,7 +2615,8 @@ footer {
 
 footer a,
 footer a:visited {
-  color: #39b54a;
+  /*color: #39b54a;*/
+  color: #425050;
 }
 
 footer a:hover,
